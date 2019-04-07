@@ -1,0 +1,1 @@
+Source code for the Resumable file upload server at https://golangbot.com/resumable-file-uploader/
